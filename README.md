@@ -37,3 +37,7 @@ Every GitHub user owns one folder, named after their login in lowercase. If your
 After the merge the catalog and the website update automatically.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the rules.
+
+## License
+
+The registry itself (indexes, catalog, workflows, website) is under the [MIT License](LICENSE). Each package is distributed under the license in its own `crater.json`.
