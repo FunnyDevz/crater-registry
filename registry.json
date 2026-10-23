@@ -1,0 +1,10 @@
+{
+  "name": "Crater Registry",
+  "description": "Luau and Roblox packages for crater",
+  "url": "https://raw.githubusercontent.com/TheExeDEV/crater-registry/main",
+  "site_url": "https://theexedev.github.io/crater-registry/",
+  "repository": "TheExeDEV/crater-registry",
+  "maintainers": [
+    "TheExeDEV"
+  ]
+}
